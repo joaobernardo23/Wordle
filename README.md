@@ -7,3 +7,6 @@ this information from the javascript file.
 
 The code is written for the english version (Wordle) and to obtain the best starting word for Termo it's just necessary to change  the files that are being
 open in the first lines of code.
+
+Spoiler alert!!! 
+The best words are SOARE and SERAO :)
